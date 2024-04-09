@@ -1,0 +1,6 @@
+Modulo: 449
+ExtendEuclid: 1663
+Euler: 2868
+ModulChina: 2052
+PrimitiveRoot: False
+Logarithm: 9
